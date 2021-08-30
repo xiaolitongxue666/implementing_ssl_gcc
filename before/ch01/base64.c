@@ -15,6 +15,7 @@ void base64_encode(const unsigned char *input, int len, unsigned char *output)
     do
     {
         //处理第一个8bits的高6bits
+        //0xFC ： 1111 1100
         *output = base64[ (input[0] & 0xFC) >> 2 ];
 
         if(len == 1)
@@ -48,7 +49,7 @@ void base64_encode(const unsigned char *input, int len, unsigned char *output)
     //PS: 输出数据的长度是输入数据长度的4/3
 }
 
-
+//–1 条目是非 base64 字符。
 static int unbase64[] =
 {
  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
@@ -65,6 +66,7 @@ int base64_decode(const unsigned char *input, int len, unsigned char *output)
 {
     int out_len = 0, i;
 
+    //输入长度必须是4的倍数
     assert( !(len & 0x03) );
 
     do 
