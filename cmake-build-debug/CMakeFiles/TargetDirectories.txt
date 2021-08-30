@@ -1,3 +1,0 @@
-/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/CMakeFiles/implementing_ssl_gcc.dir
