@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="implementing_ssl_gcc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="implementing_ssl_gcc">
+				<Option output="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/implementing_ssl_gcc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/appC"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch01"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch05"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 implementing_ssl_gcc"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="implementing_ssl_gcc/fast">
+				<Option output="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/implementing_ssl_gcc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/appC"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch01"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch05"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08"/>
+					<Add directory="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 implementing_ssl_gcc/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/appC/https.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/appC/ssl.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/appC/ssl.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch01/base64.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch01/base64.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch01/http.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch01/webserver.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/aes.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/aes.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/des.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/des.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/hex.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/hex.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/rc4.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch02/rc4.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03/dh.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03/ecc_int.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03/ecc_int.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03/huge.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03/huge.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03/rsa.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch03/rsa.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/digest.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/digest.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/dsa.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/dsa.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/ecc.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/ecc.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/ecdsa.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/ecdsa.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/hmac.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/hmac.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/md5.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/md5.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/sha.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch04/sha.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch05/asn1.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch05/asn1.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch05/x509.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch05/x509.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06/https.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06/prf.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06/prf.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06/tls.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06/tls.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06/x509.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch06/x509.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07/file.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07/file.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07/privkey.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07/privkey.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07/ssl_webserver.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07/tls.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch07/tls.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08/https.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08/rsa.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08/rsa.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08/tls.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08/tls.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch08/x509.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/aes.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/aes.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/ecc.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/ecc.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/prf.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/prf.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/tls.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/tls.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/x509.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch09/x509.h">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch10/https.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/before/ch10/https_openssl.c">
+			<Option target="implementing_ssl_gcc"/>
+		</Unit>
+		<Unit filename="/Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

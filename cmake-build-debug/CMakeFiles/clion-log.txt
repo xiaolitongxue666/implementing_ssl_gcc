@@ -1,0 +1,4 @@
+"/Users/liyong/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5080.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/liyong/Code/SSL/Implementing_SSL_TLS/implementing_ssl_gcc/cmake-build-debug
